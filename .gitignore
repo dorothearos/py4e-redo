@@ -1,0 +1,22 @@
+# Sample code
+hidden.py
+/pagerank
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Docs
+pythonlearn.pdf
+Regex-cheatsheet.txt
